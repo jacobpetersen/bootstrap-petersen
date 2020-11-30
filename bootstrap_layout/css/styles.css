@@ -1,0 +1,41 @@
+body {
+	font-family: sans-serif;
+	margin: 0;}
+
+h1 {
+	font-size: 80px;}
+
+h2 {
+	color: #b5413b;
+	font-size: 25px;
+	text-transform: uppercase;}
+
+h3 {
+	color: #b5413b;
+	font-size: 18px;}
+
+p {
+	line-height: 30px;}
+	
+.pull-quote {
+	border-left: 3px solid #bedd6e;
+	padding-left: 25px;
+	color: #b5413b;
+	font-size: 22px;
+	line-height: 45px;}
+
+.source {
+	background-color: #483a40;
+	padding: 30px;
+	color: #fff;
+	margin-bottom: 0;}
+
+.page-title {
+	background-color: #483a40;
+	background-image: url(../images/cab.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 1rem;
+	padding: 15%;
+	text-align: center;
+	color: #fff;}
